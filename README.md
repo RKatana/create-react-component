@@ -1,7 +1,7 @@
 # create-component
 This is a helper tool to create components in React. It makes, your work easier by creating component files with the specified name and adding the starter code.
 #### *Created by: [Katana](https://github.com/RKatana/)*
-## Intallation and Usage:
+## Installation and Usage:
 1. Clone this repository to a prefered location on your computer. `git clone https://github.com/RKatana/create-react-component`
 2. Copy the create-component.py file to a bin folder in the computer. `cp create-component.py ~/bin/create-component`
 
